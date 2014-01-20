@@ -27,9 +27,9 @@ IPython Concept
 
 7. General info, like last edit and memory usage by this notebook.
 
-8. *No nbconvert* checkbox prevents nbconvert to include this cell in the 
-  latex files. Useful when converting to latex for preventing of inclusion
-  of large pure-code sections.
+8. *No nbconvert* checkbox prevents nbconvert to include this cell in the latex
+   files. Useful when converting to latex for preventing of inclusion of large
+   pure-code sections.
 
 9. Collapse this cell and the output.
 
