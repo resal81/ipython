@@ -1,7 +1,7 @@
 
 
-IPython Concept
-===============
+IPython Notebook UI Concept
+===========================
 
 .. image:: concept1.png
 
